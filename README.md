@@ -86,3 +86,8 @@ jupyter notebook
 🧪 **Science is just play with purpose. Let's experiment.**
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100§ion=footer)
+
+
+
+
+
